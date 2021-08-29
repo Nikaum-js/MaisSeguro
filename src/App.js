@@ -6,8 +6,9 @@ import { Services } from "./components/Services";
 import ImageSlider from './components/Slider/ImageSlider';
 import { SliderData } from './components/Slider/SliderData';
 
-import { SliderDataBeneficio } from './components/Slider/SliderDataBeneficio';
-import ImageSliderBeneficio from './components/Slider/ImageSliderBeneficio';
+import { Footer } from "./components/Footer";
+import { Benefits } from "./components/Benefits";
+import { Map } from "./components/Map";
 
 function App() {
   return (
@@ -16,8 +17,10 @@ function App() {
     <ImageSlider slides={SliderData} />
     <Presentation />
     <Services />
+    <Benefits />
+    <Map />
     <AboutUs />
-    <ImageSliderBeneficio slides={SliderDataBeneficio} />
+    <Footer />
   </>
   );
 }

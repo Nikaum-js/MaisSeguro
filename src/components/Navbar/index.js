@@ -24,7 +24,7 @@ export function Navbar() {
       </label>
         <li><a href="#home">Para você</a></li>
         <li><a href="#negócio">Para o seu negócio</a></li>
-        <li><a href="#benefícios">Benefícios</a></li>
+        <li><a href="#benefícios">Clube dos benefícios</a></li>
         <li><a href="#cotação">Cotação</a></li>
         <li><a href="#somos">Quem somos</a></li>
         <li><a href="#contato">Contato</a></li>
@@ -37,7 +37,7 @@ export function Navbar() {
       <ul>
       <li><a href="#home">Para você</a></li>
         <li><a href="#negócio">Para o seu negócio</a></li>
-        <li><a href="#benefícios">Benefícios</a></li>
+        <li><a href="#benefícios">Clube dos benefícios</a></li>
         <li><a href="#cotação">Cotação</a></li>
         <li><a href="#somos">Quem somos</a></li>
         <li><a href="#contato">Contato</a></li>
